@@ -62,3 +62,4 @@ To quickly connect to localhost, use:
 ```sh
 python main.py -t
 ```
+
